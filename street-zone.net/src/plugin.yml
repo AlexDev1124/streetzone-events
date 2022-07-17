@@ -1,0 +1,7 @@
+name: StreetZone
+version: 1.0-SNAPSHOT
+main: me.alexdev.streetzone
+commands:
+  street:
+    description: "Comando do Street"
+    usage: "/street <Ola>"
